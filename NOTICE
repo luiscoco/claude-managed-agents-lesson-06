@@ -1,0 +1,13 @@
+Course author: Luis Coco Enríquez.
+
+Visual and teaching structure references:
+https://github.com/luiscoco/claude-agent-sdk-lesson-01
+https://github.com/luiscoco/claude-agent-sdk-lesson-02
+https://github.com/luiscoco/claude-agent-sdk-lesson-03
+
+public/course-astronaut.png is reused from the Lesson 01 reference repository.
+Original copyright (c) 2026 Luis Coco Enríquez. Licensed under MIT; see LICENSE.
+
+This application implements a new Claude Managed Agents teaching example.
+Claude and Anthropic are trademarks of their respective owners. This is an
+independent educational application and is not an official Anthropic product.
